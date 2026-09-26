@@ -1,1 +1,1 @@
-This project will link multiple HTML files that contain recipes together. This project will demonstate how to use basic HTML 
+This project will link multiple HTML files that contain recipes together. This project will demonstate how to use basic HTML. The project will include 4 HTML pages that are linked together. Three of the HTML pages will contain images. 
